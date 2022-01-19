@@ -1,6 +1,7 @@
 # form-using-JSONpowerDB
-
-"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
+Project1 : Basic design and JPDB implementatation
+Project2 : Registration form using JPDB 
+"These two projects are all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
 
 ## About JsonPowerDB
 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
